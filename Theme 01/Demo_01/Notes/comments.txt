@@ -1,0 +1,72 @@
+/***
+//reposivness issue is with margins, heading, .c divs
+// import React from "react"
+// import ReactDOM from "react-dom/client"
+
+// const navbar = (
+//     <nav>
+//         <h1>{"Bob's Bistro"}</h1>
+//         <ul>
+//             <li>Menu</li>
+//             <li>About</li>
+//             <li>Contact</li>
+//         </ul>
+//     </nav>
+// )
+// //ReactDOM.createRoot(document.getElementById("root")).render(navbar)
+// //ReactDOM.render(navbar, document.getElementById("root"))
+// // par le toi le marçion de commentas:
+
+//       ReactDOM.createRoot(document.getElementById("root")).render(navbar)
+
+//     //document.getElementById("root").append(navbar)
+
+//     // .append() is a function in standard DOM, but not in the virtual dom, via ReactDOM, and hence we use
+//     //render() function to append the childeren elements to the "Virtual DOM"
+//     // SO when we run the document.append() method, we should remind ourselves that the JSX returns plain js
+//     //objects so we can't tecnically run append on the DOM selected element, even if we do, it will just appent
+//     //that object to the dom manifesting [object,Object]
+// const classes = ["card1 ", "card2 ","card3"];
+// const containers = ["container1", "container2"];
+/** 
+Challenge: 
+- Move the `footer` into its own component called "Footer" 
+  and render that component inside the Page component.
+- Move the `h1` and `ol` together into another component
+  called "MainContent" and render inside Page as well.
+  //ReactDOM.render(<Page />, document.getElementById("root"))*/
+jkl;kj
+
+
+
+   //   <>
+    //     <div
+    //       //w-${ props.mobile ? "3/4" : "full" }
+    //       className={`flex h-screen  w-full flex-col overflow-hidden bg-slate-100`}
+    //     >
+    //       <TextOptions Favorites={AddToFav} Save={Save} />
+    //       <CodeMirror
+    //         value={CodeMirrorData}
+    //         height="94vh"
+    //         theme="dark"
+    //         extensions={[javascript({ jsx: true })]}
+    //         onChange={(v) => {
+    //           setCodeMirrorData(() => {
+    //             localStorage.setItem("Autosave_snippet", v.replaceAll(",", "∑"));
+    //             // return v; //.replaceAll("," , "∑")
+    //           });
+    //         }}
+    //       />
+    //       </div>
+
+    //       {/* <div
+    //        className="bg-slate-100 w-full flex h-screen justify-center items-center translate-x-0"
+    //        style={{display : disp}}
+    //        >
+    //   {icons}
+    //   <div>
+
+    //   </div>
+    //   </div> */}
+    //
+    //   </>

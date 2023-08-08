@@ -1,0 +1,24 @@
+ 1) cmd shift p for tailwind docs
+
+ 2) npx tailwindcss -i ./src/tailwind.css -o ./src/styles.css --watch
+ 
+
+
+ for commit
+ 3) git add .  
+ 4) git commit -m "an message"
+
+
+
+for retreave
+ 5) git log 
+ 6) git checkout <Id>
+
+ git log 
+ git checkout <id> ./src/**/*.jsx
+ git checkout <id> ./src/**/*.js
+ git checkout <id> ./src/**/*.html
+ 
+
+cmd shft p : search box
+cmd , : settings
